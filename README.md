@@ -12,9 +12,11 @@ Welcome to my 3D Interactive Project Portfolio, a dynamic web experience crafted
 
 This portfolio is built using:
 
-- Three.js for 3D graphics
-- React for responsive UI
-- Node.js for backend support
+- **Three.js** for 3D graphics
+- **React Three Fiber** (R3F) for seamless Three.js integration in React
+- **Drei** for helpful utilities and pre-built components
+- **React** for a responsive UI
+- **Node.js** for backend support
 
 ## Projects Highlighted
 
